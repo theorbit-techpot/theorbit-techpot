@@ -1,4 +1,7 @@
 ##  Who are we
+<p align="center">
+  <img src="./img/theorbit.gif" alt="The Orbit Community Banner" width="100%" />
+</p>
 
 **The Orbit Community** is one of the fastest-growing and most reliable WhatsApp tech communities, built with a simple mission:
 
