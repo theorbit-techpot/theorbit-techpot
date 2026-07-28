@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/theorbit.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/theorbit.gif" width="50%">
 </p>
 
 ##  Who are we
@@ -31,7 +31,11 @@ We're proud to have **500+ active members**, including:
 - Developers
 - Tech Enthusiasts
 - Working Professionals
-
+- 
+## Community partners
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/rh.png" width="50%">
+</p>
 Join a community where learning, networking, and opportunities come together.
 
 ##  Connect With Us
