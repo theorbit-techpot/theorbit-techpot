@@ -33,9 +33,7 @@ We're proud to have **500+ active members**, including:
 - Working Professionals
 - 
 ## Community partners
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/rh.png" width="50%">
-</p>
+  <img src="img/rh.png" alt="The Orbit Community" width="50"/>
 Join a community where learning, networking, and opportunities come together.
 
 ##  Connect With Us
