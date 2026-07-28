@@ -1,8 +1,6 @@
 ##  Who are we
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/theorbit.gif" width="100%">
-</p>
+![The Orbit Banner](https://raw.githubusercontent.com/theorbit-techpot/theorbit-techpot/main/img/theorbit.gif)
 
 **The Orbit Community** is one of the fastest-growing and most reliable WhatsApp tech communities, built with a simple mission:
 
