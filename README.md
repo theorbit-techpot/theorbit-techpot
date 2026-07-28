@@ -1,6 +1,6 @@
-#  The Orbit Community
+##  Who are we
 
-**The Orbit** is one of the fastest-growing and most reliable WhatsApp tech communities, built with a simple mission:
+**The Orbit Community** is one of the fastest-growing and most reliable WhatsApp tech communities, built with a simple mission:
 
 > **Making opportunities more accessible for every tech enthusiast.**
 
